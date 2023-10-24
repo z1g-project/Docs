@@ -1,0 +1,12 @@
+site_name: z1g Docs
+theme:
+  name: material
+  nav_style: dark
+nav:
+  - Home: index.md
+  - About: about.md
+  - Services: services.md
+  - Terbium: services/terbium.md
+  - Sodium: services/sodium.md
+  - BruhProx: services/bruhprox.md
+  - Credits: credits.md
