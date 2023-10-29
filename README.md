@@ -1,41 +1,21 @@
-# Website
+# z1g Docs
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+The official documentation site for the z1g Project. Here we provide advanced web proxy services through the progression of web proxy technologies.
 
-### Installation
+Built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-```
-$ yarn
-```
+## Installation
 
-### Local Development
+Requirements is only just Node.js (v18+).
 
-```
-$ yarn start
-```
+```bash
+git clone https://github.com/z1g-project/docs.git
+cd docs
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+npm run build # build
+npm start # developmental server
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Contributing
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If you wish to contribute please check out the Contributions section or commit to the GitHub!

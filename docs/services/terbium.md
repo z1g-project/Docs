@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: Terbium
 ---
 
@@ -10,10 +10,10 @@ This web os is packed full of features ***AND MUCH MORE TO COME***
 
 ## Quick Deployments
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/TerbiumOS/webOS)
-[![Run on Cyclic](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/TerbiumOS/webOS)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/z1g-project/Terbium)
+[![Run on Cyclic](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/z1g-project/Terbium)
 [![Deploy to Cloudflare](https://raw.githubusercontent.com/z1g-project/terbium/main/static/resources/cflogo.png)](https://github.com/z1g-project/Terbium/wiki/Deploy-to-Cloudflare-Pages)
-[![Run on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/glitch.svg)](https://glitch.com/edit/#!/import/github/TerbiumOS/webOS)
+[![Run on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/glitch.svg)](https://glitch.com/edit/#!/import/github/z1g-project/Terbium)
 
 **NOTE** More Services are supported such as  Render, and Vercel however there is not a quick url at this time also keep in mind that on Glitch and Replit Proxies are banned. Refer to [this document](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Circumventing-deployment-restrictions) to view ways to curcomvent this
 
@@ -21,13 +21,13 @@ This web os is packed full of features ***AND MUCH MORE TO COME***
 
 To Get started using Terbium what you want to do is either download the repository using the "code" button and downloading as a zip and extracting it or using git below:
 
-```
+```bash
 git clone https://github.com/z1g-project/terbium.git && cd webOS
 ```
 
 Next go into the directory which by defualt will be called webOS and run the following command in your Operating systems terminal which if your on windows you can type into the file explorer url and just type `cmd` or if your on linux/macos just right click the folder and select open in terminal and then run the commands below
 
-```
+```bash
 npm install && npm start
 ```
 
