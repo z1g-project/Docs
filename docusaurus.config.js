@@ -27,7 +27,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/z1g-project/docs/tree/main/',
+            'https://github.com/z1g-project/docs/tree/v2/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
