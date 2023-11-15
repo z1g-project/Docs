@@ -38,7 +38,7 @@ To set up Sodium, it is simple. Below are some instructions to get you started!
 - Make sure that you have NodeJS 18.x installed to check this in your operating system of choice command line or terminal type: `Node --Version` and if it says 18.0.0 or anything later than that you are fine. If you need to install or update NodeJS Please Refer to [This Page](https://nodejs.org/en/download)
 - Next, after all these things have been completed. Please make sure you are in the directory with all the files inside it. Next Run `npm i` or `npm install` (they are the same command) and wait for it to finish installing Dependencies.
 
-⚠️ Note if you are on Replit, Glitch, Heroku (or any other host that doesn't allow proxies), This Repository will probably automatically flag your repository. Check out how to Bypass these Restrictions here: [Bypassing Restrictions](https://github.com/holy-unblocker/website-aio/wiki/Circumventing-deployment-restrictions)
+> ⚠️ Note if you are on Replit, Glitch, Heroku (or any other host that doesn't allow proxies), This Repository will probably automatically flag your repository. Check out how to Bypass these Restrictions here: [Bypassing Restrictions](https://github.com/holy-unblocker/website-aio/wiki/Circumventing-deployment-restrictions)
 
 - Once all dependencies are installed you may run `npm start` to start the HTTP Server. If you wish to use a site such as Cloudflare pages or any other static hosts, it is possible you need to follow [This guide](static-hosting)
 
