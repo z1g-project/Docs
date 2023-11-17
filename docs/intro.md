@@ -12,7 +12,7 @@ We hope you like our brand new documentation site powered by [docusaurus](https:
 
 We have several Services! Some are more popular than others but they all all amazing!
 
-![Sodium Preview](/img/sodium-prev.png "Sodium")
+![Sodium Preview](/img/sodium-prev-v2.png "Sodium")
 **Sodium**: https://sodium-5h8.pages.dev | [GitHub](https://github.com/z1g-project/sodium) | [Docs](services/sodium)
 
 Description: Sodium is a site used for evading internet censorship.
