@@ -5,7 +5,7 @@ title: Terms
 
 ## Terms of Service
 
-**Last Updated: 11/09/2022**
+**Last Updated: 11/09/2023**
 
 By using the z1g Project's services, you agree to the following terms:
 
