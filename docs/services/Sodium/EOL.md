@@ -10,7 +10,7 @@ title: Version Update Life
 | [RTM](https://github.com/z1g-project/Sodium/releases/tag/1.0.0)  | **EOL** | Proxathon RTM | 2023-07-19 |   | 2023-10-25 | 2023-10-25 |
 | [1.1](https://github.com/z1g-project/Sodium/releases/tag/1.0.0-patch-1) | **EOL** || 2023-07-25 | 2023-08-10 | 2023-09-22 | 2023-10-25 |
 | [1.2](https://github.com/z1g-project/Sodium/releases/tag/1.2.0) | **EOL** | HotFix Update | 2023-08-15 | 2023-09-01 | 2023-10-00 | 2023-10-25 |
-| [1.3x](https://github.com/z1g-project/Sodium/releases/tag/1.3.0) | **Phasing Out** | The Customize Update | 2023-09-01 |  | 2023-09-15 | 2023-10-25 |
+| [1.3x](https://github.com/z1g-project/Sodium/releases/tag/1.3.0) | **Phasing Out** | The Customize Update | 2023-09-01 |  | 2023-10-17 | 2023-11-25 |
 | 1.3.7 | **LTS** | The Customize Update (LTS) | 2023-09-25 | 2023-09-25 | 2023-11-20 | 2024-01-01 |
 | [1.4x](https://github.com/z1g-project/Sodium/releases/tag/1.4.0) | **Stable (Current)** | The Fall Refresh | 2023-09-01 |  | 2023-12-15 | 2023-10-25 |
 | [1.4.5](https://github.com/z1g-project/Sodium/releases/tag/1.4.5) | **LTS** | The Fall Refresh (LTS) | 2023-11-14 | 2023-11-14 | 2023-12-01 | 2024-02-01 |
