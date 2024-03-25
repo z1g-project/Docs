@@ -13,7 +13,7 @@ const config = {
   projectName: 'docusaurus',
   scripts: [
     "https://z1g-docs.pages.dev/redirect.js",
-  ]
+  ],
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
